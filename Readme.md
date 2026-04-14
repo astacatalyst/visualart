@@ -1,6 +1,6 @@
-# Neon Aura AR - Advanced Hand Tracking Experience
+#Visual Art - Advanced Hand Tracking Experience
 
-Welcome to **Neon Aura AR**, an interactive, browser-based Augmented Reality experience. This project relies on your webcam to track hand movements and translates them into a glowing, audio-visual interactive playground.
+Welcome to **Visual Art**, an interactive, browser-based Augmented Reality experience. This project relies on your webcam to track hand movements and translates them into a glowing, audio-visual interactive playground.
 
 ## Features
 
